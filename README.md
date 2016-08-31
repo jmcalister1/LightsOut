@@ -1,8 +1,8 @@
-<div style="text-align: center;"># **LightsOut**
+# **LightsOut**
 
 #### *by Josh McAlister*
 
-[logo]</div>
+[logo]
 
 ##### Can you turn out all the lights?
 Clicking a box will flip its switch, as well as the switches of each adjacent box!
